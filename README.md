@@ -65,8 +65,8 @@ Through exploratory data analysis (EDA), data cleaning, and visualization, this 
 ## Found customer concentration patterns
 ## Highlighted top-performing international markets
 
-#📁 Project Structure
-##online_retail_store/
+# 📁 Project Structure
+## online_retail_store/
 ## │
 ## ├── Online_Retail.csv
 ## ├── online_retail_portfolio.ipynb
