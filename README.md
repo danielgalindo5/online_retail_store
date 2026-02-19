@@ -1,5 +1,5 @@
 # 🛒 Online Retail Data Analysis Portfolio
-## 📊 Data Analytics Project | Python | Pandas | Data Visualization
+📊 Data Analytics Project | Python | Pandas | Data Visualization
 
 # 📌 Project Overview
 This project analyzes transactional data from an online retail store to extract meaningful business insights. The goal is to explore customer behavior, sales performance, product trends, and revenue patterns using Python-based data analysis tools.
@@ -84,16 +84,16 @@ Open the notebook:
 jupyter notebook online_retail_portfolio.ipynb
 
 # 📈 Skills Demonstrated
-## Data Cleaning & Preprocessing
-## Exploratory Data Analysis (EDA)
-## Feature Engineering
-## Data Visualization
-## Business-Oriented Insight Generation
-## Analytical Thinking
+ Data Cleaning & Preprocessing
+ Exploratory Data Analysis (EDA)
+ Feature Engineering
+ Data Visualization
+ Business-Oriented Insight Generation
+ Analytical Thinking
 
 # 💡 Business Value
-## This project simulates how a data analyst can:
-## Help businesses optimize product strategy
-## Improve customer targeting
-## Identify revenue opportunities
-## Support data-driven decision-making
+ This project simulates how a data analyst can:
+ Help businesses optimize product strategy
+ Improve customer targeting
+ Identify revenue opportunities
+ Support data-driven decision-making
