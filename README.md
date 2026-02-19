@@ -92,7 +92,7 @@ Through exploratory data analysis (EDA), data cleaning, and visualization, this 
 ## Analytical Thinking.
 
 # 💡 Business Value:
-##This project simulates how a data analyst can:
+## This project simulates how a data analyst can:
 ## Help businesses optimize product strategy.
  ## Improve customer targeting.
  ## Identify revenue opportunities.
