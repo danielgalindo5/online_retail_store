@@ -2,7 +2,7 @@
 ## 📊 Data Analytics Project | Python | Pandas | Data Visualization
 
 # 📌 Project Overview
-## This project analyzes transactional data from an online retail store to extract meaningful business insights. The goal is to explore customer behavior, sales performance, product trends, and revenue patterns using Python-based data analysis tools.
+This project analyzes transactional data from an online retail store to extract meaningful business insights. The goal is to explore customer behavior, sales performance, product trends, and revenue patterns using Python-based data analysis tools.
 Through exploratory data analysis (EDA), data cleaning, and visualization, this project demonstrates practical data science skills applied to real-world retail data.
 
 # 🎯 Objectives
