@@ -67,10 +67,10 @@ Through exploratory data analysis (EDA), data cleaning, and visualization, this 
 
 #📁 Project Structure
 ##online_retail_store/
-##│
-##├── Online_Retail.csv
-##├── online_retail_portfolio.ipynb
-##└── README.md
+## │
+## ├── Online_Retail.csv
+## ├── online_retail_portfolio.ipynb
+## └── README.md
 
 # 🚀 How to Run the Project
 ## Clone the repository:
